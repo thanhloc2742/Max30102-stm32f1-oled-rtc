@@ -1,0 +1,4 @@
+MAX30102.c:6:6:max30102_WriteReg	32	static
+MAX30102.c:11:6:max30102_ReadReg	32	static
+MAX30102.c:16:6:max30102_ReadFifo	48	static
+MAX30102.c:50:6:max30102_Init	8	static

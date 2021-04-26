@@ -1,0 +1,3 @@
+mode.c:9:6:change_page	40	static
+mode.c:143:6:rtc_timer	8	static
+mode.c:156:6:draw_one_chart	16	static
